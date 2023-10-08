@@ -1,0 +1,20 @@
+html {
+    background: rgb(150, 100, 150);
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: rgb(90, 255, 200);
+}
+
+img {
+    height: 550px;
+    width: 550px;
+}
+
+.centered-text {
+    text-align: center;
+    font-weight: bold;
+}
+
+.titulo {
+    background-color: FFF3DA;
+}
+
